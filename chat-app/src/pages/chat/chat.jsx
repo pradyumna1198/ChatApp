@@ -1,11 +1,13 @@
+
 import React from 'react'
-import `./chat.css`
-const chat = () => {
+
+import './Chat.css'
+const Chat = () => {
   return (
     <div>
-      
+      We are chat page.
     </div>
   )
 }
 
-export default chat
+export default Chat
