@@ -3,8 +3,8 @@
 import './Login.css'
 const Login = () => {
   return (
-    <div>
-      We are on the Login page
+    <div className="login">
+      <img src="" alt="" className='logo'/>
     </div>
   )
 }
